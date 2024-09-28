@@ -1,0 +1,59 @@
+numberofprofelements 3
+numberofprofelements-1 2
+profitArr[numberofprofelements-1] 120
+maxWeightAllowed 50
+weightArr[numberofprofelements-1] 30
+end
+numberofprofelements 2
+numberofprofelements-1 1
+profitArr[numberofprofelements-1] 100
+maxWeightAllowed 20
+weightArr[numberofprofelements-1] 20
+end
+numberofprofelements 1
+numberofprofelements-1 0
+profitArr[numberofprofelements-1] 60
+maxWeightAllowed 20
+weightArr[numberofprofelements-1] 10
+end
+x 60
+u 0
+max(x, u) 60
+x 100
+u 60
+max(x, u) 100
+numberofprofelements 2
+numberofprofelements-1 1
+profitArr[numberofprofelements-1] 100
+maxWeightAllowed 50
+weightArr[numberofprofelements-1] 20
+end
+numberofprofelements 1
+numberofprofelements-1 0
+profitArr[numberofprofelements-1] 60
+maxWeightAllowed 30
+weightArr[numberofprofelements-1] 10
+end
+x 60
+u 0
+max(x, u) 60
+numberofprofelements 1
+numberofprofelements-1 0
+profitArr[numberofprofelements-1] 60
+maxWeightAllowed 50
+weightArr[numberofprofelements-1] 10
+end
+x 60
+u 0
+max(x, u) 60
+x 160
+u 60
+max(x, u) 160
+x 220
+u 160
+max(x, u) 220
+220
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
